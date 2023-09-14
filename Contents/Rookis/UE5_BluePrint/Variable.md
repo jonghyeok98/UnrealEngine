@@ -46,7 +46,7 @@ typedef signed long long int64
 
 <br>
 
-<img src="../images/UE5_BluePrint/Set.png" width = 600>
+<img src="./images/Set.png" width = 600>
 
 - set에는 설정한 값을 바로 반환하는 기능이 있다
 
@@ -56,7 +56,7 @@ typedef signed long long int64
 
 <br>
 
-<img src="../images/UE5_BluePrint/Reload.png" width = 600>
+<img src="./images/Reload.png" width = 600>
 
 <br>
 
@@ -64,7 +64,7 @@ typedef signed long long int64
 
 <br>
 
-<img src="../images/UE5_BluePrint/FormatText.png" width = 600>
+<img src="./images/FormatText.png" width = 600>
 
 - 변수를 받아와서 출력할 수 있다
 
@@ -74,7 +74,7 @@ typedef signed long long int64
 
 <br>
 
-<img src="../images/UE5_BluePrint/Debuging.png" width = 200>
+<img src="./images/Debuging.png" width = 200>
 
 - F9: Break Point
 - F10: 다음 함수 실행
