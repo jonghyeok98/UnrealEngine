@@ -279,5 +279,5 @@
 
 <Br>
 
-<img src="./images/HpBar8.png" width = 600>
+<img src="./images/HpBar8.png" width = 800>
 
